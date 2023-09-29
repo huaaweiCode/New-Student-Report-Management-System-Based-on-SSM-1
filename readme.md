@@ -31,50 +31,50 @@
 
 ### 4.1 登录
 
-![前端登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271004710.jpg)
+![前端登录](https://s2.loli.net/2023/09/29/sCvElBfVq8hwt9U.jpg)
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271004217.jpg)
+![登录](https://s2.loli.net/2023/09/29/LAZfDkrPbGREO8w.jpg)
 
 ### 4.2 前端模块
 
-![首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271004748.jpg)
+![首页](https://s2.loli.net/2023/09/29/Exaj35cSDPugldM.jpg)
 
-![报道指南详情](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271004527.jpg)
+![报道指南详情](https://s2.loli.net/2023/09/29/CYV9GqreQozFaMH.jpg)
 
-![生活用品购买](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271004557.jpg)
+![生活用品购买](https://s2.loli.net/2023/09/29/2ZbrKA6QWyxBcYn.jpg)
 
-![校园论坛](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271004109.jpg)
+![校园论坛](https://s2.loli.net/2023/09/29/m4jWIxpUq7YhvzB.jpg)
 
 ### 4.3 新生模块
 
-![学生-新生签到](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271004796.jpg)
+![学生-新生签到](https://s2.loli.net/2023/09/29/TYmnhpFs4yKofCJ.jpg)
 
-![学生-健康码管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271004684.jpg)
+![学生-健康码管理](https://s2.loli.net/2023/09/29/E3NDVIokTuO7hgs.jpg)
 
-![学生-添加健康码](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271005372.jpg)
+![学生-添加健康码](https://s2.loli.net/2023/09/29/KG3J2Yb4rswlQn7.jpg)
 
-![学生-收藏管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271005787.jpg)
+![学生-收藏管理](https://s2.loli.net/2023/09/29/OpMtJ9K7uqsCxG6.jpg)
 
-![学生-生活用品订单管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271005184.jpg)
+![学生-生活用品订单管理](https://s2.loli.net/2023/09/29/qNTwWHhJ4KlfvtO.jpg)
 
 ### 4.4 管理员模块
 
-![管理员-学生管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271005597.jpg)
+![管理员-学生管理](https://s2.loli.net/2023/09/29/mwTH48RCXBAbiqh.jpg)
 
-![管理员-报道指南](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271005447.jpg)
+![管理员-报道指南](https://s2.loli.net/2023/09/29/LfdHX61MFsRYe2k.jpg)
 
-![管理员-专业管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271005534.jpg)
+![管理员-专业管理](https://s2.loli.net/2023/09/29/12LyxRGzFPaXZTI.jpg)
 
-![管理员-班级管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271005210.jpg)
+![管理员-班级管理](https://s2.loli.net/2023/09/29/uMC7BEsGZRaw3ty.jpg)
 
-![管理员-签到管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271005428.jpg)
+![管理员-签到管理](https://s2.loli.net/2023/09/29/HdeNf3J4l6rVOSQ.jpg)
 
-![管理员-健康码管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271006914.jpg)
+![管理员-健康码管理](https://s2.loli.net/2023/09/29/yiM2QtVNnmABsTD.jpg)
 
-![管理员-商品管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/%20Typora-Images/202309271006101.jpg)
+![管理员-商品管理](https://s2.loli.net/2023/09/29/7QpdvehsAn5MVt8.jpg)
 
-## 获取方式
+### 获取方式&视频演示
 
-扫描下方，回复关键词  ：**新生1** ，获取完整版源码
+下方扫一下，回复关键词：新生
 
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+![gitee](https://s2.loli.net/2023/09/29/51jRUuCt8zqGFDc.png)
